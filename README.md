@@ -1,0 +1,2 @@
+# UAV-routing-optimisation
+Collaborated on a project with Prof. D T Pham proposes to design an anti-collision and a path planning system of swarm UAVs by using Artificial Bee Colony (ABC) algorithm. Employed bee search equation is modified by adding weight coefficients for the purpose of increasing the convergence speed and superior performance of our algorithm in solving UAV path planning in two dimensions compared with the standard ABC algorithm.
